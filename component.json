@@ -9,7 +9,7 @@
   "scripts": [
     "lib/sinon.js",
     "lib/sinon/assert.js",
-    "lib/sinon/behaviour.js",
+    "lib/sinon/behavior.js",
     "lib/sinon/call.js",
     "lib/sinon/collection.js",
     "lib/sinon/match.js",
